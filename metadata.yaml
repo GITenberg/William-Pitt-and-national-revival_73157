@@ -1,0 +1,45 @@
+_repo: William-Pitt-and-national-revival_73157
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Gainsborough, Thomas
+    birthdate: 1727
+    deathdate: 1788
+    gutenberg_agent_id: '56973'
+    url: http://www.gutenberg.org/2009/agents/56973
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Gainsborough
+creator:
+  author:
+    agent_name: Rose, J. Holland (John Holland)
+    alias: Rose, John Holland
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '5451'
+    url: http://www.gutenberg.org/2009/agents/5451
+    wikipedia: https://en.wikipedia.org/wiki/John_Holland_Rose
+description: ''
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73157'
+  lccn: '11035752'
+language: en
+pgterms:marc904: https://archive.org/details/williampittnatio00roseiala
+pgterms:marc905: 20220201035455rose
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bG. Bell and Sons, Ltd., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1760-1820'
+- !lcsh 'Great Britain -- History -- George III, 1760-1820'
+- !lcsh 'Pitt, William, 1759-1806'
+- !lcc 'DA'
+- GITenberg
+title: William Pitt and national revival
+url: http://www.gutenberg.org/ebooks/73157
